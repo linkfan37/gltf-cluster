@@ -9674,7 +9674,7 @@
 				"index":0,
 				"texCoord":1
 			},
-			"name":"Body-Material.006",
+			"name":"Body-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":1
@@ -9692,7 +9692,7 @@
 				"index":2,
 				"texCoord":1
 			},
-			"name":"Jaw-Material.016",
+			"name":"Jaw-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":3
@@ -9710,7 +9710,7 @@
 				"index":4,
 				"texCoord":1
 			},
-			"name":"Zilla_head-Material.003",
+			"name":"Zilla_head-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":5
@@ -9728,7 +9728,7 @@
 				"index":6,
 				"texCoord":1
 			},
-			"name":"Tail_01-Material.006",
+			"name":"Tail_01-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":7
@@ -9746,7 +9746,7 @@
 				"index":8,
 				"texCoord":1
 			},
-			"name":"Tail_02-Material.015",
+			"name":"Tail_02-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":9
@@ -9764,7 +9764,7 @@
 				"index":10,
 				"texCoord":1
 			},
-			"name":"Tail_03-Material.006",
+			"name":"Tail_03-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":11
@@ -9782,7 +9782,7 @@
 				"index":12,
 				"texCoord":1
 			},
-			"name":"Tail_04-Material.015",
+			"name":"Tail_04-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":13
@@ -9800,7 +9800,7 @@
 				"index":14,
 				"texCoord":1
 			},
-			"name":"Claw_L-Material.015",
+			"name":"Claw_L-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":15
@@ -9818,7 +9818,7 @@
 				"index":16,
 				"texCoord":1
 			},
-			"name":"Lower_Arm_L-Material.015",
+			"name":"Lower_Arm_L-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":17
@@ -9836,7 +9836,7 @@
 				"index":18,
 				"texCoord":1
 			},
-			"name":"Upper_Arm_L-Material.015",
+			"name":"Upper_Arm_L-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":19
@@ -9854,7 +9854,7 @@
 				"index":20,
 				"texCoord":1
 			},
-			"name":"Claw_R-Material.015",
+			"name":"Claw_R-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":21
@@ -9872,7 +9872,7 @@
 				"index":22,
 				"texCoord":1
 			},
-			"name":"Lower_Arm_R-Material.015",
+			"name":"Lower_Arm_R-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":23
@@ -9890,7 +9890,7 @@
 				"index":24,
 				"texCoord":1
 			},
-			"name":"Upper_Arm_R-Material.016",
+			"name":"Upper_Arm_R-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":25
@@ -9908,7 +9908,7 @@
 				"index":26,
 				"texCoord":1
 			},
-			"name":"Feet_L-Material.016",
+			"name":"Feet_L-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":27
@@ -9926,7 +9926,7 @@
 				"index":28,
 				"texCoord":1
 			},
-			"name":"Lower_Leg_L02-Material.015",
+			"name":"Lower_Leg_L02-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":29
@@ -9944,7 +9944,7 @@
 				"index":30,
 				"texCoord":1
 			},
-			"name":"Upper_Leg_L-Material.015",
+			"name":"Upper_Leg_L-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":31
@@ -9962,7 +9962,7 @@
 				"index":32,
 				"texCoord":1
 			},
-			"name":"Feet_R-Material.016",
+			"name":"Feet_R-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":33
@@ -9980,7 +9980,7 @@
 				"index":34,
 				"texCoord":1
 			},
-			"name":"Lower_Leg_R-Material.015",
+			"name":"Lower_Leg_R-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":35
@@ -9998,7 +9998,7 @@
 				"index":36,
 				"texCoord":1
 			},
-			"name":"Upper_Leg_R-Material.015",
+			"name":"Upper_Leg_R-Material.002",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":37
@@ -10009,7 +10009,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Body-Mesh.006",
+			"name":"Body-Mesh",
 			"primitives":[
 				{
 					"attributes":{
@@ -10024,7 +10024,7 @@
 			]
 		},
 		{
-			"name":"Jaw-Mesh.016",
+			"name":"Jaw-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10039,7 +10039,7 @@
 			]
 		},
 		{
-			"name":"Zilla_head-Mesh.003",
+			"name":"Zilla_head-Mesh",
 			"primitives":[
 				{
 					"attributes":{
@@ -10054,7 +10054,7 @@
 			]
 		},
 		{
-			"name":"Tail_01-Mesh.006",
+			"name":"Tail_01-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10069,7 +10069,7 @@
 			]
 		},
 		{
-			"name":"Tail_02-Mesh.015",
+			"name":"Tail_02-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10084,7 +10084,7 @@
 			]
 		},
 		{
-			"name":"Tail_03-Mesh.006",
+			"name":"Tail_03-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10099,7 +10099,7 @@
 			]
 		},
 		{
-			"name":"Tail_04-Mesh.015",
+			"name":"Tail_04-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10114,7 +10114,7 @@
 			]
 		},
 		{
-			"name":"Claw_L-Mesh.015",
+			"name":"Claw_L-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10129,7 +10129,7 @@
 			]
 		},
 		{
-			"name":"Lower_Arm_L-Mesh.015",
+			"name":"Lower_Arm_L-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10144,7 +10144,7 @@
 			]
 		},
 		{
-			"name":"Upper_Arm_L-Mesh.015",
+			"name":"Upper_Arm_L-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10159,7 +10159,7 @@
 			]
 		},
 		{
-			"name":"Claw_R-Mesh.015",
+			"name":"Claw_R-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10174,7 +10174,7 @@
 			]
 		},
 		{
-			"name":"Lower_Arm_R-Mesh.015",
+			"name":"Lower_Arm_R-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10189,7 +10189,7 @@
 			]
 		},
 		{
-			"name":"Upper_Arm_R-Mesh.016",
+			"name":"Upper_Arm_R-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10204,7 +10204,7 @@
 			]
 		},
 		{
-			"name":"Feet_L-Mesh.016",
+			"name":"Feet_L-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10219,7 +10219,7 @@
 			]
 		},
 		{
-			"name":"Lower_Leg_L02-Mesh.015",
+			"name":"Lower_Leg_L02-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10234,7 +10234,7 @@
 			]
 		},
 		{
-			"name":"Upper_Leg_L-Mesh.015",
+			"name":"Upper_Leg_L-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10249,7 +10249,7 @@
 			]
 		},
 		{
-			"name":"Feet_R-Mesh.016",
+			"name":"Feet_R-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10264,7 +10264,7 @@
 			]
 		},
 		{
-			"name":"Lower_Leg_R-Mesh.015",
+			"name":"Lower_Leg_R-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -10279,7 +10279,7 @@
 			]
 		},
 		{
-			"name":"Upper_Leg_R-Mesh.015",
+			"name":"Upper_Leg_R-Mesh.001",
 			"primitives":[
 				{
 					"attributes":{

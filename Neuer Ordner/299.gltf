@@ -9692,7 +9692,7 @@
 				"index":2,
 				"texCoord":1
 			},
-			"name":"Jaw-Material",
+			"name":"Jaw-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":3
@@ -9728,7 +9728,7 @@
 				"index":6,
 				"texCoord":1
 			},
-			"name":"Tail_01-Material",
+			"name":"Tail_01-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":7
@@ -9746,7 +9746,7 @@
 				"index":8,
 				"texCoord":1
 			},
-			"name":"Tail_02-Material",
+			"name":"Tail_02-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":9
@@ -9764,7 +9764,7 @@
 				"index":10,
 				"texCoord":1
 			},
-			"name":"Tail_03-Material",
+			"name":"Tail_03-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":11
@@ -9782,7 +9782,7 @@
 				"index":12,
 				"texCoord":1
 			},
-			"name":"Tail_04-Material",
+			"name":"Tail_04-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":13
@@ -9800,7 +9800,7 @@
 				"index":14,
 				"texCoord":1
 			},
-			"name":"Claw_L-Material",
+			"name":"Claw_L-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":15
@@ -9818,7 +9818,7 @@
 				"index":16,
 				"texCoord":1
 			},
-			"name":"Lower_Arm_L-Material",
+			"name":"Lower_Arm_L-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":17
@@ -9836,7 +9836,7 @@
 				"index":18,
 				"texCoord":1
 			},
-			"name":"Upper_Arm_L-Material",
+			"name":"Upper_Arm_L-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":19
@@ -9854,7 +9854,7 @@
 				"index":20,
 				"texCoord":1
 			},
-			"name":"Claw_R-Material",
+			"name":"Claw_R-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":21
@@ -9872,7 +9872,7 @@
 				"index":22,
 				"texCoord":1
 			},
-			"name":"Lower_Arm_R-Material",
+			"name":"Lower_Arm_R-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":23
@@ -9890,7 +9890,7 @@
 				"index":24,
 				"texCoord":1
 			},
-			"name":"Upper_Arm_R-Material",
+			"name":"Upper_Arm_R-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":25
@@ -9908,7 +9908,7 @@
 				"index":26,
 				"texCoord":1
 			},
-			"name":"Feet_L-Material",
+			"name":"Feet_L-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":27
@@ -9926,7 +9926,7 @@
 				"index":28,
 				"texCoord":1
 			},
-			"name":"Lower_Leg_L02-Material",
+			"name":"Lower_Leg_L02-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":29
@@ -9944,7 +9944,7 @@
 				"index":30,
 				"texCoord":1
 			},
-			"name":"Upper_Leg_L-Material",
+			"name":"Upper_Leg_L-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":31
@@ -9962,7 +9962,7 @@
 				"index":32,
 				"texCoord":1
 			},
-			"name":"Feet_R-Material",
+			"name":"Feet_R-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":33
@@ -9980,7 +9980,7 @@
 				"index":34,
 				"texCoord":1
 			},
-			"name":"Lower_Leg_R-Material",
+			"name":"Lower_Leg_R-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":35
@@ -9998,7 +9998,7 @@
 				"index":36,
 				"texCoord":1
 			},
-			"name":"Upper_Leg_R-Material",
+			"name":"Upper_Leg_R-Material.001",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":37
